@@ -1,7 +1,7 @@
 import React, {Component} from "react"
 import App from "./App"
 
-const data = [
+const compliments = [
     "Good effort!",
     "What a fine sweater!",
     "I appreciate all of your opinions.",
