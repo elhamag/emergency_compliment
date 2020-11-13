@@ -41,7 +41,7 @@ const data = [
     "Hello, good looking."
   ];
 
-  export default class Compliment extends Component{
+  export default class Compliments extends Component{
       constructor(){
           super()
 
